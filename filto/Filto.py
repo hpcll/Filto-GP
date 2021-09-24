@@ -228,8 +228,8 @@ if __name__ == '__main__':
         # #授予filto读写权限
         # get_limit()
         # # 启动App
-        # d.app_start("com.video.editor.filto")
-        # run_all()
+        d.app_start("com.video.editor.filto")
+        run_all()
 
         # find_element_filter("闪烁")
         find_element_effect("波纹")
